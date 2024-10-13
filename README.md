@@ -7,10 +7,10 @@ This project implements three algorithms (Brute Force, Apriori, and FP-Growth) t
 1. Clone this repository:
 2. Install the necessary Python libraries:
 3. Run the Jupyter notebook:
-4. Open the `midterm_project.ipynb` notebook and follow the prompts.
+4. Open the `midterm_project_code.ipynb` notebook and follow the prompts.
 
 ## Project Structure
-- `midterm_project.ipynb`: Jupyter notebook with the code implementation.
+- `midterm_project_code.ipynb`: Jupyter notebook with the code implementation.
 - `requirements.txt`: List of required Python libraries.
 - `datasets/`: Folder containing the dataset CSV files.
 
