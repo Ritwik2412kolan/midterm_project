@@ -1,4 +1,4 @@
-# Midterm Project - Association Rule Mining
+# Association Rule Mining
 
 ## Project Overview
 This project implements three algorithms (Brute Force, Apriori, and FP-Growth) to find frequent itemsets and generate association rules from retail transaction data.
